@@ -1,10 +1,32 @@
-<div align="center">
-<h1>Hello, I'm Gabrielly Tiberio! 💗<h1>
+
+
+
+<img align="right" width="400" src="https://th.bing.com/th/id/R.2c5d553d791a747232678191a9589146?rik=2jzseSBGvvtn5w&riu=http%3a%2f%2f68.media.tumblr.com%2f258bb453d827c1f95920cdaa0d422aab%2ftumblr_nzc5bwubIG1teg3r1o1_500.gif&ehk=tChcVREXT3P87pLFT0sGSxP86JCTRm0g9Zup8dCSZDs%3d&risl=&pid=ImgRaw&r=0" />
+<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sono&weight=100&size=23&duration=4996&pause=1000&color=F72EBDFF&width=435&lines=Gabrielly+Tiberio;Java+Full+Stack+Dev" alt="Typing SVG" /></a>
+<ul>
+  <li> 🦊 SHE/HER </li>
+  <li> ✨ 19 years old </li>
+  <li> 🏠 From Brazil</li>
+  <li> 👩🏽‍💻 Currently studying at *[SoulCodeAcademy](https://soulcodeacademy.org/) </li>
+  <li> 💗 I'm a passionate learner who's always willing to learn and work across technologies and domains</li>
+  <li> 👾 Full Stack development </li>
+  <li> ⚒️ At the moment working with Java, Typescript, Javascript, 
+    <br> MySQL & Angular </li>
+  <li> ⚡ Trying and exploring new stuff</li>
+</li>
+</ul>
+
+<!-- ## More -->
+
+## Github Stats
+
   <a href="https://github.com/GabsBugs">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=GabsBugs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBugs&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+  
 <!--   
   <img align="right" alt="Dino-pic" height="150" src="https://media.tenor.com/HrXqFCl3ZIEAAAAC/hello-dinosally.gif">
 </div> -->
@@ -72,7 +94,7 @@
 </table>
   
  ##
-<h1>Connect with me <h1>  
+## Connect with me
 <div>
 <!--  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 <!--  <a href="discordapp.com/users/1017596137164767242" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
@@ -85,6 +107,8 @@
 <p> GitHub Profile Trophy 🏆</p>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=GabsBugs&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+  
+ <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=F72EBDFF&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
   
 ![Snake animation](https://github.com/GabsBugs/GabsBugs/blob/output/github-contribution-grid-snake.svg)
  
