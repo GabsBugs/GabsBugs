@@ -4,7 +4,7 @@
 
 ## Hello, I'm Gabrielly Tiberio! 💗
 <ul>
-  <li> 🦊 SHE/HER </li>
+<!--   <li> 🦊 SHE/HER </li> -->
 <!--   <li> ✨ 19 years old </li>
   <li> 🏠 From Brazil</li> -->
   <li> 👩🏽‍💻 Currently studying at SoulCodeAcademy (https://soulcodeacademy.org/) </li>
