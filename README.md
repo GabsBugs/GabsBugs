@@ -1,8 +1,8 @@
 <div align="center">
 <h1>Hello, I'm Gabrielly Tiberio! 💗<h1>
   <a href="https://github.com/GabsBugs">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=GabsBugs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBugs&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=GabsBugs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBugs&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <h1>Languages and Tools </h1> 
