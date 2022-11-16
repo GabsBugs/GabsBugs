@@ -18,7 +18,7 @@
 ## More about me 
 
 <details>	
-  <summary><b> ... </b></summary>
+  <summary><b></b></summary>
 
   <br />
   <p>My name is Gabrielly, but people usually call me Gabs or Gabi, I'm 19 years old and I'm from Brazil. <img height="15px" width="20" src="https://emojigraph.org/media/facebook/flag-brazil_1f1e7-1f1f7.png"/> </p>
