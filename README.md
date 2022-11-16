@@ -26,7 +26,7 @@
   <a href="www.linkedin.com/in/gabrielly-tibério-devFullStack" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://volt.fm/user/w4zu269x7elzawjq" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GabsBugs/GabsBugs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
