@@ -16,14 +16,14 @@
   
   <img align="right" alt="Dino-pic" height="150" src="https://media.tenor.com/HrXqFCl3ZIEAAAAC/hello-dinosally.gif">
 </div>
- 
+  
  ##
 <h1>Connect with me <h1>  
 <div>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="discordapp.com/users/1017596137164767242" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabriellye627@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/gabrielly-tibério-devFullStack" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/gabrielly-tibério-devfullstack" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://volt.fm/user/w4zu269x7elzawjq" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
  
 ![Snake animation](https://github.com/GabsBugs/GabsBugs/blob/output/github-contribution-grid-snake.svg)
