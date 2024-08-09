@@ -2,7 +2,7 @@
 <br/>
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sono&weight=100&size=23&duration=4996&pause=1000&color=F72EBDFF&width=435&lines=Gabrielly+Tiberio;Java+Full+Stack+Dev" alt="Typing SVG" /></a> -->
 
-## Hello, I'm Gabrielly Tiberio! 💗
+## Hello 💗
 <ul>
   <li> 💗 I'm a passionate learner who's always willing to learn and work across technologies and domains</li>
   <li> 👾 Full Stack development </li>
