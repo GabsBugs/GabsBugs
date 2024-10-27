@@ -29,11 +29,7 @@
 </a>
 
  
- ## My favorite tools and technologies ⚙️ 
-
-> Tools and technologies that I have worked with and am interested in
-
-## My favorite tools and technologies ⚙️ 
+## My favorite tools and technologies 🖥️ 
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -67,7 +63,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
@@ -88,11 +84,12 @@
       <br>PHP
     </td>
     <td align="center" width="96">
-        <img src="https://cdn-icons-png.flaticon.com/512/4814/4814591.png" width="48" height="48" alt="ChatGPT" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Robot_icon.svg" width="48" height="48" alt="ChatGPT" />
       <br>ChatGPT
     </td>
   </tr>
 </table>
+
 
   
  ##
