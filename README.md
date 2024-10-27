@@ -1,6 +1,5 @@
 <img align="right" width="350" src="https://th.bing.com/th/id/R.2c5d553d791a747232678191a9589146?rik=2jzseSBGvvtn5w&riu=http%3a%2f%2f68.media.tumblr.com%2f258bb453d827c1f95920cdaa0d422aab%2ftumblr_nzc5bwubIG1teg3r1o1_500.gif&ehk=tChcVREXT3P87pLFT0sGSxP86JCTRm0g9Zup8dCSZDs%3d&risl=&pid=ImgRaw&r=0" />
 <br/>
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sono&weight=100&size=23&duration=4996&pause=1000&color=F72EBDFF&width=435&lines=Gabrielly+Tiberio;Java+Full+Stack+Dev" alt="Typing SVG" /></a> -->
 
 ## Hello and Welcome!💗🌟
 <ul>
@@ -96,7 +95,7 @@
   <a href = "mailto:gabriellye627@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielly-tib%C3%A9rio-devfullstack/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-<p> GitHub Profile Trophy 🏆</p>
+## GitHub Profile Trophy 🏆
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=GabsBugs&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
   
