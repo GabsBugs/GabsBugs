@@ -79,13 +79,13 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-	      <td align="center" width="96">
+   <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-	   <td align="center" width="96">
-        <img src="https://www.oracle.com/a/ocom/img/cw/logo/oracle-logo.svg" width="48" height="48" alt="Oracle Database" />
-      <br>Oracle Database
+   <td align="center" width="96">
+        <img src="https://angular.io/assets/images/logos/angular/angular.png" width="48" height="48" alt="Angular" />
+      <br>Angular
     </td>
   </tr>
 </table>
