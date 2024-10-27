@@ -35,6 +35,14 @@
 
 <table>
   <tr>
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+   <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       <br>Typescript
@@ -52,14 +60,6 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
     </td>
   </tr>
   <tr>
@@ -79,12 +79,12 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="48" height="48" alt="PHP" />
-      <br>PHP
+	      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
+      <br>Postman
     </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Oracle_logo.svg" width="48" height="48" alt="Oracle Database" />
+	   <td align="center" width="96">
+        <img src="https://www.oracle.com/a/ocom/img/cw/logo/oracle-logo.svg" width="48" height="48" alt="Oracle Database" />
       <br>Oracle Database
     </td>
   </tr>
