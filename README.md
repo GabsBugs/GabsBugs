@@ -29,7 +29,11 @@
 </a>
 
  
-  ## My favorite tools and technologies ⚙️ 
+ ## My favorite tools and technologies ⚙️ 
+
+> Tools and technologies that I have worked with and am interested in
+
+## My favorite tools and technologies ⚙️ 
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -54,8 +58,8 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
+        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="GitHub" />
+      <br>Postman
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
@@ -63,33 +67,33 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96"> 
+    <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="GitHub" />
-      <br>Postman
-    </td>
-    <td align="center"  width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-
- </tr>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn-icons-png.flaticon.com/512/4814/4814591.png" width="48" height="48" alt="ChatGPT" />
+      <br>ChatGPT
+    </td>
+  </tr>
 </table>
+
   
  ##
 ## Connect with me
