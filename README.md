@@ -2,13 +2,13 @@
 <br/>
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sono&weight=100&size=23&duration=4996&pause=1000&color=F72EBDFF&width=435&lines=Gabrielly+Tiberio;Java+Full+Stack+Dev" alt="Typing SVG" /></a> -->
 
-## Hello 💗
+## Hello and Welcome!💗🌟
 <ul>
-  <li> 💗 I'm a passionate learner who's always willing to learn and work across technologies and domains</li>
-  <li> 👾 Full Stack development </li>
-  <li> ⚒️ At the moment working with Java, Typescript, Javascript, 
-    <br> MySQL & Angular </li>
-  <li> ⚡ Trying and exploring new stuff</li>
+  <li> 👋 Great to see you here! I'm a Full Stack Developer, always eager to learn and expand my knowledge across different technologies and domains. </li>
+  <li> 👾 Full Stack development in continuous evolution. </li>
+  <li> 🚀 My current toolkit includes Java, TypeScript, JavaScript, MySQL, and Angular. </li>
+  <li> 🌱 Recently started exploring the world of PHP.</li> 
+  <li> ✨ Back on GitHub and excited to share my projects and learning journey!</li>
 </li>
 </ul>
 
@@ -21,10 +21,6 @@
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBugs&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-  
-<!--   
-  <img align="right" alt="Dino-pic" height="150" src="https://media.tenor.com/HrXqFCl3ZIEAAAAC/hello-dinosally.gif">
-</div> -->
   
   ## My favorite tools and technologies ⚙️ 
 
