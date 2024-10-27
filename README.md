@@ -25,7 +25,7 @@
 ## Quotes 💬
 
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img height="200em" width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img height="180em" width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </a>
 
  
