@@ -12,19 +12,24 @@
 </li>
 </ul>
 
-## GitHub Stats
+## GitHub Stats ✨
 
 <a href="https://github.com/GabsBugs">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=GabsBugs&show_icons=true&theme=catppuccin_macchiato&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=GabsBugs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/GabsBugs">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBugs&layout=compact&langs_count=7&theme=catppuccin_macchiato"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBugs&layout=compact&langs_count=7&theme=radical"/>
 </a>
+<br/>
 
-## Quotes
+## Quotes 🌟
+
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img height="180em" width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato"/>
+  <img height="220em" width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </a>
+<br/>
+
+
 
 
   
