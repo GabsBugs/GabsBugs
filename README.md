@@ -29,7 +29,7 @@
 </a>
 
  
-## My favorite tools and technologies 🤖 
+## My favorite tools and technologies 🖥️
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -90,16 +90,11 @@
   </tr>
 </table>
 
- ##
-## Connect with me
+
+## Connect with me 🌐
 <div>
-<!--  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-<!--  <a href="discordapp.com/users/1017596137164767242" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
   <a href = "mailto:gabriellye627@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielly-tib%C3%A9rio-devfullstack/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<!--   <a href="https://volt.fm/user/w4zu269x7elzawjq" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> -->
-  
-##
   
 <p> GitHub Profile Trophy 🏆</p>
   
@@ -111,7 +106,7 @@
  
 </div>
 
-<!-- ### More about me 
+ ### More about me 
 
 <details>	
   <summary><b>⚡ Who is me? </b></summary>
@@ -213,6 +208,6 @@
 
 #
 
-<div align="center">  -->
+<div align="center">  
 
 
