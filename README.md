@@ -21,12 +21,12 @@
   <tr>
     <td>
       <a href="https://github.com/GabsBugs">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabsBugs&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
+	      <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBugs&layout=compact&langs_count=7&theme=radical"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha"/>
+        <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte"/>
       </a>
     </td>
   </tr>
