@@ -84,15 +84,12 @@
       <br>PHP
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Robot_icon.svg" width="48" height="48" alt="ChatGPT" />
-      <br>ChatGPT
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Oracle_logo.svg" width="48" height="48" alt="Oracle Database" />
+      <br>Oracle Database
     </td>
   </tr>
 </table>
 
-
-
-  
  ##
 ## Connect with me
 <div>
