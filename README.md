@@ -17,16 +17,18 @@
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <table>
   <tr>
     <td>
       <a href="https://github.com/GabsBugs">
-	      <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBugs&layout=compact&langs_count=7&theme=radical"/>
+        <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api?username=GabsBugs&show_icons=true&theme=catppuccin_frappe&include_all_commits=true&count_private=true"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_latte"/>
+        <img height="180em" width="35%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_frappe"/>
       </a>
     </td>
   </tr>
