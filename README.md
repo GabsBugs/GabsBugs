@@ -25,15 +25,10 @@
 ## Quotes 💬
 
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img height="250em" width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img height="350em" width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </a>
-<br/>
 
-
-
-
-
-  
+ 
   ## My favorite tools and technologies ⚙️ 
 
 > Tools and technologies that I have worked with and am interested in
