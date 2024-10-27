@@ -40,7 +40,7 @@
       <br>Java
     </td>
    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" style="animation: pulse 1s infinite;"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="65" height="65" alt="PHP" />
       <br>PHP
     </td>
     <td align="center" width="96">
