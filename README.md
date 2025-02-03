@@ -5,7 +5,7 @@
 <ul>
   <li> 👋 Great to see you here! I'm a Full Stack Developer, always eager to learn and expand my knowledge across different technologies and domains. </li>
   <li> 👾 Full Stack development in continuous evolution. </li>
-  <li> 🚀 My current toolkit includes Java, TypeScript, JavaScript, MySQL, and Angular. </li>
+  <li> 🚀 My current toolkit includes PHP, Java, TypeScript, JavaScript, MySQL, and Angular. </li>
   <li> 🌱 Recently started exploring the world of PHP.</li> 
   <li> ✨ Back on GitHub and excited to share my projects and learning journey!</li>
 </li>
