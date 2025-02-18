@@ -102,7 +102,7 @@
   
  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=F72EBDFF&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
 
-![snake animation](https://github.com/GabsBugs/GabsBugs/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/GabsBugs/GabsBugs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
