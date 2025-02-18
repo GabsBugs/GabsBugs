@@ -14,11 +14,8 @@
 ## GitHub Stats 📊
 
 <a href="https://github.com/GabsBugs">
-
   <img height="180em" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabsBugs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
-
-
 
 <a href="https://github.com/GabsBugs">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBugs&layout=compact&langs_count=7&theme=radical"/>
@@ -104,8 +101,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=GabsBugs&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
   
  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=F72EBDFF&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
-  
-![Snake animation](https://github.com/GabsBugs/GabsBugs/blob/output/github-contribution-grid-snake.svg)
+
+![snake animation](https://github.com/GabsBugs/GabsBugs/blob/output/github-contribution-grid-snake2.svg)
  
 </div>
 
