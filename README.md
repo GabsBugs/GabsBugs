@@ -6,20 +6,20 @@
   <li> 👋 Great to see you here! I'm a Full Stack Developer, always eager to learn and expand my knowledge across different technologies and domains. </li>
   <li> 👾 Full Stack development in continuous evolution. </li>
   <li> 🚀 My current toolkit includes PHP, Java, TypeScript, JavaScript, MySQL, and Angular. </li>
-  <li> 🌱 Recently started exploring the world of PHP.</li> 
+  <li> 🌱 Recently started exploring the world of PHP.</li>
+  <li> 🏛️ Currently doing an internship at the Presidency of the Republic, Federal Government of Brazil.</li>
   <li> ✨ Back on GitHub and excited to share my projects and learning journey!</li>
-</li>
 </ul>
 
 ## GitHub Stats 📊
 
 <a href="https://github.com/GabsBugs">
-  <img height="180em" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabsBugs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabsBugs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/GabsBugs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBugs&layout=compact&langs_count=7&theme=radical"/>
 </a>
 
-<a href="https://github.com/GabsBugs">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBugs&layout=compact&langs_count=7&theme=radical"/>
-</a>
 <br/>
 
 ## Quotes 💬
