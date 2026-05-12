@@ -1,109 +1,124 @@
 <img align="right" width="350" src="https://th.bing.com/th/id/R.2c5d553d791a747232678191a9589146?rik=2jzseSBGvvtn5w&riu=http%3a%2f%2f68.media.tumblr.com%2f258bb453d827c1f95920cdaa0d422aab%2ftumblr_nzc5bwubIG1teg3r1o1_500.gif&ehk=tChcVREXT3P87pLFT0sGSxP86JCTRm0g9Zup8dCSZDs%3d&risl=&pid=ImgRaw&r=0" />
 <br/>
+# Gabrielly Tibério
 
-## Hello and Welcome!💗🌟
-<ul>
-  <li> 👋 Great to see you here! I'm a Full Stack Developer, always eager to learn and expand my knowledge across different technologies and domains. </li>
-  <li> 👾 Full Stack development in continuous evolution. </li>
-  <li> 🚀 My current toolkit includes PHP, Java, TypeScript, JavaScript, MySQL, and Angular. </li>
-  <li> 🌱 Recently started exploring the world of PHP.</li>
-  <li> 🏛️ Currently doing an internship at the Presidency of the Republic, Federal Government of Brazil.</li>
-  <li> ✨ Back on GitHub and excited to share my projects and learning journey!</li>
-</ul>
+Full Stack Developer focused on backend development, automation and data engineering.
 
-## GitHub Stats 📊
+---
+
+## About Me
+
+- Full Stack Developer with experience in government systems, data processing and automation
+- Currently working at the Ministry of Health in Brazil
+- Experience with PHP/Laravel, Python, JavaScript, SQL Server and Oracle
+- Development of ETL pipelines, REST APIs and system integrations
+- Experience with Selenium, Playwright and process automation
+- Knowledge in CI/CD, Azure DevOps and backend-focused solutions
+- Interested in backend engineering, automation and data solutions
+
+---
+
+## Tech Stack
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,java,nodejs,spring" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,bootstrap" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+<p>
+  SQL Server • Oracle
+</p>
+
+### Data & Automation
+<p>
+  ETL • Pandas • Selenium • Playwright
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,jenkins,postman" />
+</p>
+
+<p>
+  Azure DevOps • CI/CD
+</p>
+
+---
+
+## Professional Experience
+
+### Ministry of Health — Brazil
+- Development and maintenance of government systems
+- ETL pipelines and data processing automation
+- SQL Server and Oracle integrations
+- Automation using Selenium and Playwright
+- CI/CD pipelines with Azure DevOps
+- Monitoring and governance processes related to Specialized Healthcare in SUS
+
+### Presidency of the Republic — Brazil
+- Full Stack development for government budget systems
+- Development with PHP/Laravel, Python and JavaScript
+- Oracle database optimization and system integrations
+- Agile development using Scrum methodologies
+
+---
+
+## Featured Projects
+
+### Parliamentary Amendments Management Portal
+- Financial and budget monitoring platform
+- React components for analytical data visualization
+- APIs for real-time Oracle integration
+- Authentication and profile-based access control
+
+### Budget Monitoring System
+- ETL and financial data processing
+- REST APIs and Oracle integration
+- Government data analysis and reporting
+
+### Zoo Accessibility Platform
+- Mobile and web platform focused on digital accessibility
+- React Native and React Web application
+- User validation and field research
+- Responsive navigation and institutional content organization
+
+---
+
+## GitHub Stats
+
+<div align="center">
 
 <a href="https://github.com/GabsBugs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabsBugs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabsBugs&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </a>
+
 <a href="https://github.com/GabsBugs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBugs&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBugs&layout=compact&langs_count=8&theme=transparent"/>
 </a>
 
-
-<br/>
-
-## Quotes 💬
-
-<a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img height="150em" width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</a>
-
- 
-## My favorite tools and technologies 🖥️
-
-> Tools and technologies that I have worked with and am interested in
-
-<table>
-  <tr>
-   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
-    </td>
-   <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="65" height="65" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>Typescript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-   <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-   <td align="center" width="96">
-        <img src="https://angular.io/assets/images/logos/angular/angular.png" width="48" height="48" alt="Angular" />
-      <br>Angular
-    </td>
-  </tr>
-</table>
-
-
-## Connect with me 🌐
-<div>
-  <a href = "mailto:gabriellye627@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielly-tib%C3%A9rio-devfullstack/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-## GitHub Profile Trophy 🏆
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=GabsBugs&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
-  
- <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=F72EBDFF&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
-
-![Snake animation](https://github.com/GabsBugs/GabsBugs/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+
+---
+
+## Contact
+
+<p>
+  <a href="mailto:gabriellye627@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/gabrielly-tib%C3%A9rio-devfullstack/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
