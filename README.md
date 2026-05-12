@@ -11,11 +11,11 @@
 
 Full Stack Developer with experience in government systems, automation and data processing. Currently at the **Ministry of Health, Brazil**, building solutions that impact public healthcare delivery.
 
-- 🏛️ Federal government: Ministry of Health & Presidency of the Republic
-- 🔁 ETL pipelines, REST APIs and system integrations
-- 🤖 Process automation with Selenium and Playwright
-- ⚙️ CI/CD with Azure DevOps and Jenkins
-- 📊 Passionate about backend engineering and data solutions
+-  Federal government: Ministry of Health & Presidency of the Republic
+-  ETL pipelines, REST APIs and system integrations
+-  Process automation with Selenium and Playwright
+-  CI/CD with Azure DevOps and Jenkins
+-  Passionate about backend engineering and data solutions
 
 &nbsp;
 
@@ -36,19 +36,19 @@ Full Stack Developer with experience in government systems, automation and data 
 
 ## 💼 Experience
 
-**🏥 Ministry of Health — Brazil**
+** Ministry of Health — Brazil**
 Development and maintenance of government systems · ETL pipelines · SQL Server & Oracle integrations · Automation with Selenium and Playwright · CI/CD with Azure DevOps · Governance of Specialized Healthcare (SUS)
 
-**🏛️ Presidency of the Republic — Brazil**
+** Presidency of the Republic — Brazil**
 Full Stack development for budget systems · PHP/Laravel, Python & JavaScript · Oracle query optimization · Agile/Scrum
 
 ## 🚀 Featured Projects
 
-**📊 Parliamentary Amendments Management Portal** — Budget monitoring platform with React, real-time Oracle APIs and role-based access control
+** Parliamentary Amendments Management Portal** — Budget monitoring platform with React, real-time Oracle APIs and role-based access control
 
-**📈 Budget Monitoring System** — ETL pipeline with REST APIs, Oracle integration and government data reporting
+** Budget Monitoring System** — ETL pipeline with REST APIs, Oracle integration and government data reporting
 
-**♿ Zoo Accessibility Platform** — React Native + React Web, focused on digital inclusion with field research
+** Zoo Accessibility Platform** — React Native + React Web, focused on digital inclusion with field research
 
 ## 📊 GitHub Stats
 
