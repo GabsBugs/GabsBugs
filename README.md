@@ -1,4 +1,4 @@
-<img align="right" width="260" src="https://media.tenor.com/2roX3uxz_68AAAAC/pikachu-pokemon.gif"/>
+<img align="right" width="350" src="https://th.bing.com/th/id/R.2c5d553d791a747232678191a9589146?rik=2jzseSBGvvtn5w&riu=http%3a%2f%2f68.media.tumblr.com%2f258bb453d827c1f95920cdaa0d422aab%2ftumblr_nzc5bwubIG1teg3r1o1_500.gif&ehk=tChcVREXT3P87pLFT0sGSxP86JCTRm0g9Zup8dCSZDs%3d&risl=&pid=ImgRaw&r=0" /> <br/>
 
 # Gabrielly Tibério
 
