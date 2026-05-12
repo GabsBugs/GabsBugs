@@ -1,57 +1,40 @@
-<img align="right" width="350" src="https://th.bing.com/th/id/R.2c5d553d791a747232678191a9589146?rik=2jzseSBGvvtn5w&riu=http%3a%2f%2f68.media.tumblr.com%2f258bb453d827c1f95920cdaa0d422aab%2ftumblr_nzc5bwubIG1teg3r1o1_500.gif&ehk=tChcVREXT3P87pLFT0sGSxP86JCTRm0g9Zup8dCSZDs%3d&risl=&pid=ImgRaw&r=0" />
-<br/>
+<img align="right" width="320" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/lain.gif"/>
+
 # Gabrielly Tibério
 
-Full Stack Developer focused on backend development, automation and data engineering.
+### Full Stack Developer | PHP/Laravel • Python • SQL Server • ETL • Automation
 
----
+<br/>
 
 ## About Me
 
-- Full Stack Developer with experience in government systems, data processing and automation
+- Full Stack Developer with experience in government systems, automation and data processing
 - Currently working at the Ministry of Health in Brazil
-- Experience with PHP/Laravel, Python, JavaScript, SQL Server and Oracle
+- Experience with PHP/Laravel, Python, SQL Server, Oracle and React
 - Development of ETL pipelines, REST APIs and system integrations
-- Experience with Selenium, Playwright and process automation
-- Knowledge in CI/CD, Azure DevOps and backend-focused solutions
+- Process automation using Selenium and Playwright
+- Experience with CI/CD, Azure DevOps and backend-focused solutions
 - Interested in backend engineering, automation and data solutions
 
----
+<br/>
 
 ## Tech Stack
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,java,nodejs,spring" />
-</p>
+<div align="center">
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=php,laravel,python,java,javascript,typescript,react,nodejs,spring"/>
 
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,jenkins,postman"/>
 
-<p>
-  SQL Server • Oracle
-</p>
+</div>
 
-### Data & Automation
-<p>
-  ETL • Pandas • Selenium • Playwright
-</p>
+<br/>
 
-### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,jenkins,postman" />
-</p>
+<div align="center">
 
-<p>
-  Azure DevOps • CI/CD
-</p>
+SQL Server • Oracle • ETL • Azure DevOps • Selenium • Playwright • CI/CD
+
+</div>
 
 ---
 
@@ -63,12 +46,12 @@ Full Stack Developer focused on backend development, automation and data enginee
 - SQL Server and Oracle integrations
 - Automation using Selenium and Playwright
 - CI/CD pipelines with Azure DevOps
-- Monitoring and governance processes related to Specialized Healthcare in SUS
+- Governance and monitoring processes related to Specialized Healthcare in SUS
 
 ### Presidency of the Republic — Brazil
 - Full Stack development for government budget systems
-- Development with PHP/Laravel, Python and JavaScript
-- Oracle database optimization and system integrations
+- Development using PHP/Laravel, Python and JavaScript
+- Oracle query optimization and system integrations
 - Agile development using Scrum methodologies
 
 ---
@@ -76,10 +59,10 @@ Full Stack Developer focused on backend development, automation and data enginee
 ## Featured Projects
 
 ### Parliamentary Amendments Management Portal
-- Financial and budget monitoring platform
+- Budget and financial monitoring platform
 - React components for analytical data visualization
 - APIs for real-time Oracle integration
-- Authentication and profile-based access control
+- Authentication and role-based access control
 
 ### Budget Monitoring System
 - ETL and financial data processing
@@ -90,7 +73,6 @@ Full Stack Developer focused on backend development, automation and data enginee
 - Mobile and web platform focused on digital accessibility
 - React Native and React Web application
 - User validation and field research
-- Responsive navigation and institutional content organization
 
 ---
 
@@ -98,13 +80,9 @@ Full Stack Developer focused on backend development, automation and data enginee
 
 <div align="center">
 
-<a href="https://github.com/GabsBugs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabsBugs&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabsBugs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<a href="https://github.com/GabsBugs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBugs&layout=compact&langs_count=8&theme=transparent"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBugs&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -112,13 +90,14 @@ Full Stack Developer focused on backend development, automation and data enginee
 
 ## Contact
 
-<p>
-  <a href="mailto:gabriellye627@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<div>
 
-  <a href="https://www.linkedin.com/in/gabrielly-tib%C3%A9rio-devfullstack/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<a href="mailto:gabriellye627@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://www.linkedin.com/in/gabrielly-tib%C3%A9rio-devfullstack/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
