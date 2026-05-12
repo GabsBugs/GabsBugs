@@ -1,13 +1,12 @@
-<p align="right">
-  <img width="250" src="https://media.tenor.com/2roX3uxz_68AAAAC/pikachu-pokemon.gif"/>
-</p>
+<img align="right" width="260" src="https://media.tenor.com/2roX3uxz_68AAAAC/pikachu-pokemon.gif"/>
 
 # Gabrielly Tibério
 
 ### Full Stack Developer | PHP/Laravel • Python • SQL Server • ETL • Automation
 
-## About Me
+&nbsp;
 
+## About Me
 - Full Stack Developer with experience in government systems, automation and data processing
 - Currently working at the Ministry of Health in Brazil
 - Experience with PHP/Laravel, Python, SQL Server, Oracle and React
