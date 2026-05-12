@@ -1,4 +1,4 @@
-<img align="right" width="320" src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/lain.gif"/>
+<img align="right" width="320" src="https://media.tenor.com/2roX3uxz_68AAAAC/pikachu-pokemon.gif"/>
 
 # Gabrielly Tibério
 
